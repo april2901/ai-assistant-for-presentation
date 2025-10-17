@@ -5,11 +5,5 @@ FR-3.2 실시간 스크립트 재구성<br>
 
 <로컬에서 깃헙 연동 명령어 + pull 받기>
 ```sh
-    git init
-```
-```sh
-    git remote add origin https://github.com/april2901/ai-assistant-for-presentation.git
-```
-```sh
-    git pull origin main
+    git clone https://github.com/april2901/ai-assistant-for-presentation.git
 ```
